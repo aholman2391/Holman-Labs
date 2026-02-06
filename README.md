@@ -38,6 +38,17 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 - Windows Troubleshooting Methodology  
 - System Security Fundamentals  
 
+
+## 👤 User Account Management
+**Goal:** Implement secure account structures aligned with administrative best practices.
+
+**Key Actions:**
+- Created administrator and standard user accounts  
+- Applied least-privilege principles  
+- Tested permission boundaries  
+- Practiced secure account configuration  
+
+✅ **Result:** Built a structured and secure user environment. 
 ---
 
 # 💻 Hands-On Lab Portfolio
@@ -57,17 +68,16 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 
 ---
 
-## 👤 User Account Management
-**Goal:** Implement secure account structures aligned with administrative best practices.
+## 🔐 Windows Permissions Lab
+**Goal:** Configure secure NTFS permissions within a controlled environment.
 
 **Key Actions:**
-- Created administrator and standard user accounts  
-- Applied least-privilege principles  
-- Tested permission boundaries  
-- Practiced secure account configuration  
+- Managed permissions and inheritance  
+- Restricted access for standard users  
+- Tested access across multiple accounts  
+- Validated security settings  
 
-✅ **Result:** Built a structured and secure user environment.
-
+✅ **Result:** Strengthened system security while maintaining proper user functionality.
 ---
 
 ## 🔧 Windows Update Troubleshooting
