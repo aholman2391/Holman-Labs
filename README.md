@@ -40,6 +40,15 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 
 ---
 
+## 🖥️ Virtual Machine Setup
+
+**Objective:** Build a Windows 10 virtual machine to create a realistic lab environment.
+
+**Setup Highlights:**
+- Created a VirtualBox VM from scratch with Windows 10  
+- Configured CPU, RAM, and storage for optimal performance  
+- Installed VirtualBox Guest Additions for seamless integration  
+- Verified network connectivity and lab functionality
 # 💻 Hands-On Lab Portfolio
 
 ---
