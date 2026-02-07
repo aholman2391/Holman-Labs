@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Alin Holman**, an IT professional transitioning from the transport industry into technology.  
+Hi, I'm **Alin Holman**, an IT enthusiast transitioning from the transport industry into technology.  
 I created this repository to document my hands-on experience, strengthen my practical skills, and demonstrate my commitment to building a successful career in IT.
 
 👉 **I focus on learning by doing — these labs represent the practical experience I’ve gained while developing the skills needed for a career in IT, and were completed on VirtualBox virtual machines, simulating real-world IT environments.**
