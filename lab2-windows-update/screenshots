@@ -1,0 +1,8 @@
+lab2-windows-update
+│── README.md
+│── screenshots/
+│     ├── 01-error-message.png
+│     ├── 02-troubleshooter.png
+│     ├── 03-services-check.png
+│     ├── 04-update-success.png
+│── windows-update-fix.mp4
