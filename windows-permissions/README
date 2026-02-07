@@ -1,0 +1,14 @@
+# Windows Permissions
+
+This folder contains a screenshot and a video demonstrating the step-by-step process used to configure file and folder permissions in Windows.  
+
+**Note:** The video walkthrough was recorded on a Windows 10 virtual machine.  
+
+## Contents
+- Screenshot of the Access Denied error
+- Video walkthrough of the process
+
+## Purpose
+Provide a visual, hands-on reference for managing and troubleshooting Windows file and folder permissions.
+
+✅ Outcome: Correct permissions configured; practical Windows security skills reinforced.
