@@ -12,7 +12,7 @@
 Hi, I'm **Alin Holman**, an IT professional transitioning from the transport industry into technology.  
 I created this repository to document my hands-on experience, strengthen my practical skills, and demonstrate my commitment to building a successful career in IT.
 
-👉 **I focus on learning by doing. These labs represent the practical experience I’ve gained while developing the skills needed for a career in IT.**
+👉 **I focus on learning by doing — these labs represent the practical experience I’ve gained while developing the skills needed for a career in IT, and were completed on VirtualBox virtual machines, simulating real-world IT environments.**
 
 My goal is to move into **networking, infrastructure, and cloud-based roles**, where I can continue growing while solving real technical challenges.
 
@@ -112,7 +112,6 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 ## 📸 Evidence
 
 📷 Screenshots and walkthrough videos are available inside each lab folder.
-
 
 ---
 
