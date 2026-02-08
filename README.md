@@ -63,6 +63,12 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 - Validated security settings  
 
 ✅ **Result:** Strengthened system security while maintaining proper user functionality.
+### 📸 Evidence
+- Screenshots: uploaded inside the lab folder  
+- Video walkthrough:
+-  [![Watch the video walkthrough](https://img.youtube.com/vi/OFjZ7ls--QU/0.jpg)](https://youtu.be/OFjZ7ls--QU)
+
+
 
 ---
 
