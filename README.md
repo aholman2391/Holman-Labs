@@ -95,6 +95,11 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 - Verified update functionality  
 
 ✅ **Result:** Successfully restored update operations and reinforced real-world troubleshooting skills.
+### 📸 Evidence
+- Screenshots: uploaded inside the lab folder  
+- Video walkthrough:
+- [![Watch the video walkthrough](https://img.youtube.com/vi/4ogfn8uCo7U/0.jpg)](https://youtu.be/4ogfn8uCo7U)
+
 
 ---
 
