@@ -108,6 +108,11 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 - Verified Remote Desktop was inaccessible  
 
 ✅ **Result:** Enhanced device security posture.
+### 📸 Evidence
+- Screenshots: uploaded inside the lab folder  
+- Video walkthrough:
+- [![Watch the video walkthrough](https://img.youtube.com/vi/HttCRxu4ATc/0.jpg)](https://youtu.be/HttCRxu4ATc)
+
 
 ---
 
