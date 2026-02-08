@@ -72,16 +72,24 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 
 ---
 
-## 👤 User Account Management
+## 👤 User Account Management Lab
 **Goal:** Implement secure account structures aligned with administrative best practices.
 
 **Key Actions:**
-- Created administrator and standard user accounts  
-- Applied least-privilege principles  
-- Tested permission boundaries  
-- Practiced secure account configuration  
+- Opened **Computer Management → Local Users and Groups**
+- Created **User1** and **User2** accounts
+- Added **User2** to the **Administrators** group while keeping **User1** as a standard user
+- Applied least-privilege principles to maintain proper access control
+- Tested account functionality to verify permissions and boundaries
 
-✅ **Result:** Built a structured and secure user environment.
+✅ **Result:** Successfully built a structured and secure user environment with clear role separation.
+
+### 📸 Evidence
+- Screenshots: uploaded inside the lab folder
+- Video walkthrough:
+- [![Watch the video walkthrough](https://img.youtube.com/vi/IbFpWoNbAL4/0.jpg)](https://youtu.be/IbFpWoNbAL4)
+
+
 
 ---
 
