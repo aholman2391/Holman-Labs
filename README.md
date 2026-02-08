@@ -85,7 +85,6 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 ✅ **Result:** Successfully built a structured and secure user environment with clear role separation.
 
 ### 📸 Evidence
-- Screenshots: uploaded inside the lab folder
 - Video walkthrough:
 - [![Watch the video walkthrough](https://img.youtube.com/vi/IbFpWoNbAL4/0.jpg)](https://youtu.be/IbFpWoNbAL4)
 
