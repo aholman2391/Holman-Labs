@@ -121,6 +121,11 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 - Verified deployment in File Explorer  
 
 ✅ **Result:** Successfully configured production-ready storage.
+### 📸 Evidence
+- Screenshots: uploaded inside the lab folder  
+- Video walkthrough:
+- [![Watch the video walkthrough](https://img.youtube.com/vi/sYaM-46idC4/0.jpg)](https://youtu.be/sYaM-46idC4)
+
 
 ---
 
