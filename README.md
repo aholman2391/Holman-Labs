@@ -53,7 +53,7 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 
 ---
 
-## 🔐 Windows Permissions Lab
+## 🔐 Windows Permissions 
 **Goal:** Configure secure NTFS permissions within a controlled environment.
 
 **Key Actions:**
@@ -72,7 +72,7 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 
 ---
 
-## 👤 User Account Management Lab
+## 👤 User Account Management 
 **Goal:** Implement secure account structures aligned with administrative best practices.
 
 **Key Actions:**
@@ -129,7 +129,7 @@ My goal is to move into **networking, infrastructure, and cloud-based roles**, w
 
 ---
 
-## 💾 Disk Management Lab
+## 💾 Disk Management 
 **Goal:** Prepare new storage for operational use.
 
 **Key Actions:**
